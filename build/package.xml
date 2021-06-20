@@ -9,10 +9,9 @@
         <name>ApexPage</name>
     </types> 
     <types>
-        <members>Payment__c</members>
-        <members>Jenkins_Test__c</members>
+        <members>*</members>
         <name>CustomObject</name>
     </types>
 	
-    <version>41.0</version>
+    <version>52.0</version>
 </Package>
